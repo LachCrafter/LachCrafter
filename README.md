@@ -1,6 +1,6 @@
 ### Hi there 👋
-# 🔭 I’m currently working on LachShield and my own Linux distrobution
-# 🌱 I’m currently learning Vue.js and flutter
+#### 🔭 I’m currently working on LachShield and my own Linux distrobution
+#### 🌱 I’m currently learning Vue.js and flutter
 <!--
 **LachCrafter/LachCrafter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
