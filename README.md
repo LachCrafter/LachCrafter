@@ -1,6 +1,6 @@
 ### Hiiii! 👋
 
-I'm LachCrafter, a passionate developer and learner based in Germany.
+I'm LachCrafter, a passionate developer and student based in Germany.
 
 #### 🌱 Currently Learning
 - C++/C#
