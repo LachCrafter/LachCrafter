@@ -9,7 +9,7 @@ I'm [Your Name], a passionate developer and learner based in [Your Location]. We
 #### 👯 Open to Collaboration
 I'm always open to collaborating on interesting projects. If you have an exciting idea or need assistance, feel free to reach out.
 
-#### What I currently listering to
+#### 🎵 Currently Listening To
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313nmwumgcxawim23nzjpcv6zjxq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 #### 💬 Ask Me About
