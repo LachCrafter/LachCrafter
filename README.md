@@ -21,7 +21,4 @@ Anything related to Tech/Development. I'm happy to share knowledge and insights.
 #### 😄 Pronouns
 He/Him
 
-#### ⚡ Fun Fact
-[Share a quirky or interesting fact about yourself or your interests]
-
 Feel free to explore my repositories, and don't hesitate to connect! Let's code and learn together. 🚀
