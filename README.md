@@ -3,8 +3,8 @@
 I'm LachCrafter, a passionate developer and learner based in Germany.
 
 #### 🌱 Currently Learning
-- Mastering C++ to build efficient and robust applications.
-- Exploring the depths of Java for versatile and scalable solutions.
+- C++/C#
+- Java
 
 #### 👯 Open to Collaboration
 I'm always open to collaborating on interesting projects. If you have an exciting idea or need assistance, feel free to reach out.
@@ -19,7 +19,7 @@ Anything related to Tech/Development. I'm happy to share knowledge and insights.
 - Email: lachcrafter@lachcrafter.de
 
 #### 😄 Pronouns
-he/him
+He/Him
 
 #### ⚡ Fun Fact
 [Share a quirky or interesting fact about yourself or your interests]
