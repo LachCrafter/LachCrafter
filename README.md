@@ -1,6 +1,6 @@
 ### Hiiii! 👋
 
-I'm [Your Name], a passionate developer and learner based in [Your Location]. Welcome to my GitHub profile! 🚀
+I'm LachCrafter, a passionate developer and learner based in Germany.
 
 #### 🌱 Currently Learning
 - Mastering C++ to build efficient and robust applications.
