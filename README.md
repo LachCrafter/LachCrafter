@@ -22,3 +22,5 @@ Anything related to Tech/Development. I'm happy to share knowledge and insights.
 He/Him
 
 Feel free to explore my repositories, and don't hesitate to connect! Let's code and learn together. 🚀
+
+* Best viewed on Windows 10
