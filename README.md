@@ -18,6 +18,7 @@ Anything related to Tech/Development. I'm happy to share knowledge and insights.
 
 #### 📫 How to Reach Me
 - Email: lachcrafter@lachcrafter.de
+- Discord: lachcrafter
 
 #### 😄 Pronouns
 He/Him
