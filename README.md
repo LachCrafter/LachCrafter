@@ -22,6 +22,9 @@ Anything related to Tech/Development. I'm happy to share knowledge and insights.
 #### 😄 Pronouns
 He/Him
 
-Feel free to explore my repositories, and don't hesitate to connect! Let's code and learn together. 🚀
 
-* Best viewed on Windows 10
+
+Best viewed on Windows 10
+
+
+I see you looking at me
