@@ -5,7 +5,7 @@ I'm LachCrafter, a passionate developer and student based in Germany.
 #### 🌱 Currently Learning
 - C++/C#
 - Java
-- fullstack web-development
+- fullstack web development
 
 #### 👯 Open to Collaboration
 I'm always open to collaborating on interesting projects. If you have an exciting idea or need assistance, feel free to reach out.
