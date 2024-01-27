@@ -27,5 +27,3 @@ He/Him
 
 Best viewed on Windows 10
 
-
-I see you looking at me
