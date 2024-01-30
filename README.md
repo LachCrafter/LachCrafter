@@ -24,6 +24,5 @@ Anything related to Tech/Development. I'm happy to share knowledge and insights.
 He/Him
 
 
-
+#### Have a great day!
 Best viewed on Windows 10
-# Have a great day!
