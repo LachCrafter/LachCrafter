@@ -1,28 +1,27 @@
-### Hiiii! 👋
+### Hiiii! 
 
 I'm LachCrafter, a passionate developer and student based in Germany.
 
-#### 🌱 Currently Learning
+#### Currently Learning
 - C++/C#
 - Java
 - fullstack web development
 
-#### 👯 Open to Collaboration
+#### Open to Collaboration
 I'm always open to collaborating on interesting projects. If you have an exciting idea or need assistance, feel free to reach out.
 
 #### 🎵 Currently Listening To
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313nmwumgcxawim23nzjpcv6zjxq&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=ff0000&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=313nmwumgcxawim23nzjpcv6zjxq&redirect=true)
 
-#### 💬 Ask Me About
+#### Ask Me About
 Anything related to Tech/Development. I'm happy to share knowledge and insights.
 
-#### 📫 How to Reach Me
+#### How to Reach Me
 - Email: lachcrafter@lachcrafter.de
 - Discord: lachcrafter
 
-#### 😄 Pronouns
+#### Pronouns
 He/Him
 
 
 #### Have a great day!
-Best viewed on Windows 10
