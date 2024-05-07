@@ -1,4 +1,4 @@
-### Hiiii! 
+### Hello! 
 
 I'm LachCrafter, a passionate developer and student based in Germany.
 
@@ -13,9 +13,6 @@ I'm always open to collaborating on interesting projects. If you have an excitin
 #### 🎵 Currently Listening To
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313nmwumgcxawim23nzjpcv6zjxq&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=ff0000&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=313nmwumgcxawim23nzjpcv6zjxq&redirect=true)
 
-#### Ask Me About
-Anything related to Tech/Development. I'm happy to share knowledge and insights.
-
 #### How to Reach Me
 - Email: lachcrafter@lachcrafter.de
 - Discord: lachcrafter
@@ -24,4 +21,4 @@ Anything related to Tech/Development. I'm happy to share knowledge and insights.
 He/Him
 
 
-#### Have a great day!
+## Have a great day!
